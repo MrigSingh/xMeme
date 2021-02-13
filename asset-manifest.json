@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/xMeme/static/css/main.2bd0c9d5.chunk.css",
+    "main.js": "/xMeme/static/js/main.6d42e906.chunk.js",
+    "main.js.map": "/xMeme/static/js/main.6d42e906.chunk.js.map",
+    "runtime-main.js": "/xMeme/static/js/runtime-main.2a888e9a.js",
+    "runtime-main.js.map": "/xMeme/static/js/runtime-main.2a888e9a.js.map",
+    "static/css/2.4c9c16c4.chunk.css": "/xMeme/static/css/2.4c9c16c4.chunk.css",
+    "static/js/2.60bc3bd7.chunk.js": "/xMeme/static/js/2.60bc3bd7.chunk.js",
+    "static/js/2.60bc3bd7.chunk.js.map": "/xMeme/static/js/2.60bc3bd7.chunk.js.map",
+    "static/js/3.32f584a8.chunk.js": "/xMeme/static/js/3.32f584a8.chunk.js",
+    "static/js/3.32f584a8.chunk.js.map": "/xMeme/static/js/3.32f584a8.chunk.js.map",
+    "index.html": "/xMeme/index.html",
+    "static/css/2.4c9c16c4.chunk.css.map": "/xMeme/static/css/2.4c9c16c4.chunk.css.map",
+    "static/css/main.2bd0c9d5.chunk.css.map": "/xMeme/static/css/main.2bd0c9d5.chunk.css.map",
+    "static/js/2.60bc3bd7.chunk.js.LICENSE.txt": "/xMeme/static/js/2.60bc3bd7.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.css": "/xMeme/static/media/fontawesome-webfont.f691f37e.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2a888e9a.js",
+    "static/css/2.4c9c16c4.chunk.css",
+    "static/js/2.60bc3bd7.chunk.js",
+    "static/css/main.2bd0c9d5.chunk.css",
+    "static/js/main.6d42e906.chunk.js"
+  ]
+}
